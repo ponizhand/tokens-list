@@ -1,15 +1,28 @@
-[{
-    "chainId": 84531,
-    "address": "0xc1620eB375BF9339EF4a0231a9286b8214429fcA",
-    "name": "BaseMemeSwap Token",
-    "symbol": "BMS",
-    "decimals": 18,
-    "logoURI": ""
-},{
-    "chainId": 84531,
-    "address": "0xCddD6D3d4024535CceeA408EAb8cd00C8f162e6D",
-    "name": "Wrapped Ether",
-    "symbol": "WETH",
-    "decimals": 18,
-    "logoURI": ""
-}]
+{
+    "name": "TestList",
+    "logoURI": "",
+    "keywords": [
+        "token"
+    ],
+    "timestamp": "2023-07-31T00:00:00.000+00:00",
+    "tokens": [{
+        "chainId": 84531,
+        "address": "0xc1620eB375BF9339EF4a0231a9286b8214429fcA",
+        "name": "BaseMemeSwap Token",
+        "symbol": "BMS",
+        "decimals": 18,
+        "logoURI": ""
+        },{
+        "chainId": 84531,
+        "address": "0xCddD6D3d4024535CceeA408EAb8cd00C8f162e6D",
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "decimals": 18,
+        "logoURI": ""
+    }],
+    "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+}
+}
