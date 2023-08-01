@@ -1,6 +1,6 @@
 {
     "name": "TestList",
-    "logoURI": "",
+    "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_usdc.svg",
     "keywords": [
         "token"
     ],
@@ -11,14 +11,14 @@
         "name": "BaseMemeSwap Token",
         "symbol": "BMS",
         "decimals": 18,
-        "logoURI": ""
+        "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_usdc.svg"
         },{
         "chainId": 84531,
         "address": "0xCddD6D3d4024535CceeA408EAb8cd00C8f162e6D",
         "name": "Wrapped Ether",
         "symbol": "WETH",
         "decimals": 18,
-        "logoURI": ""
+        "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_usdc.svg"
     }],
     "version": {
     "major": 1,
